@@ -5,7 +5,7 @@ Contact synchronizer
 Installation and execution steps:
 
 ### 1- In your operating system create a working directory and open a new terminal in this directory.
-### 2- Git clone https://github.com/wjtrucido/syncContactsFrontend.git
+### 2- git clone https://github.com/wjtrucido/syncContactsFrontend.git
 ### 3- cd syncContactsFrontend
 ### 4- npm install
 ### 5- npm run dev
