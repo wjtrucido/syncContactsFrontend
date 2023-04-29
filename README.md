@@ -15,4 +15,4 @@ Contact synchronizer
 # Important: for the project to work correctly you will have to put its backend, the instructions will be left in the README of the repository:
 # https://github.com/wjtrucido/syncContacts 
 
-###############################################################################################################################################
+###############################################################################
